@@ -1,0 +1,171 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Content Progress\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2013-04-25 18:07+0100\n"
+"PO-Revision-Date: 2013-04-25 18:08+0100\n"
+"Last-Translator: FxB <traductions@fxbenard.com>\n"
+"Language-Team: Joe Dolson\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.5\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n;_x;_c;esc_html__;esc_html_e;esc_attr__;"
+"esc_attr_e;_ex:1,2c;_n:1,2;_nx:4c,1,2;_n_noop;_nx_noop:4c,1,2;_x:1,2c\n"
+"X-Poedit-Basepath: ../\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: content-progress.php:64
+msgid "Flag"
+msgstr ""
+
+#: content-progress.php:65
+msgid "Notes"
+msgstr ""
+
+#: content-progress.php:77 content-progress.php:536
+msgid "Document is empty"
+msgstr ""
+
+#: content-progress.php:79 content-progress.php:537
+msgid "Document has less than 60 characters of content."
+msgstr ""
+
+#: content-progress.php:216 content-progress.php:522
+msgid "Content Progress"
+msgstr ""
+
+#: content-progress.php:266
+#, php-format
+msgid ""
+"<br /><strong>Note:</strong> Please review the <a class=\"thickbox\" href="
+"\"%1$s\">changelog</a> before upgrading."
+msgstr ""
+
+#: content-progress.php:288
+msgid "Default"
+msgstr ""
+
+#: content-progress.php:290
+msgid "Notes:"
+msgstr ""
+
+#: content-progress.php:372
+msgid ""
+"Please read the FAQ and other Help documents before making a support request."
+msgstr ""
+
+#: content-progress.php:377
+msgid ""
+"Thank you for supporting the continuing development of this plug-in! I'll "
+"get back to you as soon as I can."
+msgstr ""
+
+#: content-progress.php:379
+msgid ""
+"I'll get back to you as soon as I can, after dealing with any support "
+"requests from plug-in supporters."
+msgstr ""
+
+#: content-progress.php:390
+msgid ""
+"Please note: I do keep records of those who have donated, but if your "
+"donation came from somebody other than your account at this web site, please "
+"note this in your message."
+msgstr ""
+
+#: content-progress.php:392
+msgid ""
+"I have read <a href=\"http://www.joedolson.com/articles/content-progress/"
+"\">the FAQ for this plug-in</a>."
+msgstr ""
+
+#: content-progress.php:395
+msgid ""
+"I have <a href=\"http://www.joedolson.com/donate.php\">made a donation to "
+"help support this plug-in</a>."
+msgstr ""
+
+#: content-progress.php:401
+msgid "Send Support Request"
+msgstr ""
+
+#: content-progress.php:404
+msgid ""
+"The following additional information will be sent with your support request:"
+msgstr ""
+
+#: content-progress.php:436
+msgid "Enabled for these post types:"
+msgstr ""
+
+#: content-progress.php:443
+msgid "Update Settings"
+msgstr ""
+
+#: content-progress.php:453
+msgid "Customize Statuses"
+msgstr ""
+
+#: content-progress.php:528
+msgid "Content Progress Settings"
+msgstr ""
+
+#: content-progress.php:533
+msgid "Default icon guide:"
+msgstr ""
+
+#: content-progress.php:538
+msgid "Manually marked incomplete."
+msgstr ""
+
+#: content-progress.php:539
+msgid "Manually marked complete."
+msgstr ""
+
+#: content-progress.php:540
+msgid "Needs Editorial Review."
+msgstr ""
+
+#: content-progress.php:543
+msgid "Additional included icons"
+msgstr ""
+
+#: content-progress.php:545
+msgid ""
+"You can use any URL to reference an icon of your choice; these are included "
+"for your convenience."
+msgstr ""
+
+#: content-progress.php:562
+msgid "Get Plug-in Support"
+msgstr ""
+
+#: content-progress.php:582
+msgid "Support this Plug-in"
+msgstr ""
+
+#: content-progress.php:590
+msgid ""
+"<a href=\"http://www.joedolson.com/donate.php\">Make a donation today!</a> "
+"Every donation counts - donate $2, $10, or $100 and help me keep this plug-"
+"in running!"
+msgstr ""
+
+#: content-progress.php:600
+msgid "Check out my other plug-ins"
+msgstr ""
+
+#: content-progress.php:601
+msgid "Rate this plug-in"
+msgstr ""
+
+#: content-progress.php:627
+msgid "Get Support"
+msgstr ""
+
+#: content-progress.php:628
+msgid "Donate"
+msgstr ""

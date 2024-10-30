@@ -1,0 +1,53 @@
+#content-progress .postbox { margin: 10px 10px 0 0;	}
+#content-progress .meta-box-sortables { min-height: 0; }
+.icon-guide img { vertical-align: bottom; position: relative; top: 5px;}
+.icon-guide li { margin: 0 0 5px; }
+
+#content-progress textarea[readonly="readonly"] {
+    color: #333;
+    border: none;
+    box-shadow: none;
+    font-size: 1.4em;
+	width: 100%;
+}
+
+.cp-support-me p {
+    font-size: 1.6em;
+    font-weight: 600;
+    background: #007eb3;
+    text-shadow: 1px 1px rgb( 35, 60, 127 );
+    padding: 1em;
+    text-align: center;
+    margin: 0;
+}
+
+.cp-support-me p, .cp-support-me a {
+    color: #fff;
+}
+
+.cp-support-me a:hover, .cp-support-me a:focus {
+    text-decoration: none;
+}
+
+.jcd-wide {
+    width: 70%;
+}
+
+.jcd-narrow {
+    width: 20%;
+}
+
+#content-progress .postbox .hndle {
+	cursor: auto;
+}
+
+@media (max-width: 782px) {
+
+    .jcd-narrow {
+        width: 100%;
+    }
+
+    .jcd-wide {
+        width: 100%;
+    }
+}

@@ -1,0 +1,145 @@
+# Translation of Content Progress in Spanish (Spain)
+# This file is distributed under the same license as the Content Progress package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2013-09-30 21:03:16+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/0.1\n"
+"Project-Id-Version: Content Progress\n"
+
+#: content-progress.php:65
+msgid "Notes"
+msgstr "Notas"
+
+#: content-progress.php:290
+msgid "Notes:"
+msgstr "Notas:"
+
+#: content-progress.php:436
+msgid "Enabled for these post types:"
+msgstr "Habilitado para estos tipos de mensajes:"
+
+#: content-progress.php:443
+msgid "Update Settings"
+msgstr "Actualizar la Configuración"
+
+#: content-progress.php:453
+msgid "Customize Statuses"
+msgstr "Personalizar Etapas"
+
+#: content-progress.php:528
+msgid "Content Progress Settings"
+msgstr "Progreso del Contenido de la Configuración"
+
+#: content-progress.php:533
+msgid "Default icon guide:"
+msgstr "Incluidos adicionales íconos"
+
+#: content-progress.php:543
+msgid "Additional included icons"
+msgstr "Iconos adicionales incluidos"
+
+#: content-progress.php:545
+msgid "You can use any URL to reference an icon of your choice; these are included for your convenience."
+msgstr "Se puede utilizar cualquier URL para hacer referencia a un ícono de su elección, los cuales han sido incluidos para su conveniencia."
+
+#: content-progress.php:582
+msgid "Support this Plug-in"
+msgstr "Apoya este Plug-in"
+
+#: content-progress.php:590
+msgid "<a href=\"http://www.joedolson.com/donate.php\">Make a donation today!</a> Every donation counts - donate $2, $10, or $100 and help me keep this plug-in running!"
+msgstr "<a href=\"http://www.joedolson.com/donate.php\">¡Haga una donación hoy!</a> ¡Cada donación cuenta - donar $ 2, $ 10, ó $ 100 me ayudan a mantener este plug-in en marcha!"
+
+#: content-progress.php:64
+msgid "Flag"
+msgstr "Marca"
+
+#: content-progress.php:77 content-progress.php:536
+msgid "Document is empty"
+msgstr "Documento sin contenido"
+
+#: content-progress.php:79 content-progress.php:537
+msgid "Document has less than 60 characters of content."
+msgstr "Documento contiene menos de 60 caracteres."
+
+#: content-progress.php:538
+msgid "Manually marked incomplete."
+msgstr "Marcado manualmente como incompleto."
+
+#: content-progress.php:539
+msgid "Manually marked complete."
+msgstr "Marcado manualmente como completado."
+
+#: content-progress.php:540
+msgid "Needs Editorial Review."
+msgstr "Requiere Revisión Editorial."
+
+#: content-progress.php:266
+msgid "<br /><strong>Note:</strong> Please review the <a class=\"thickbox\" href=\"%1$s\">changelog</a> before upgrading."
+msgstr "<br /><strong>Nota:</strong> Por favor, revise el <a class=\"thickbox\" href=\"%1$s\">registro de cambios</a> antes de actualizar."
+
+#: content-progress.php:288
+msgid "Default"
+msgstr "Por defecto"
+
+#: content-progress.php:372
+msgid "Please read the FAQ and other Help documents before making a support request."
+msgstr "Por favor leer Preguntas y Respuestas, u otro documento de ayuda antes de hacer una solicitud de soporte."
+
+#: content-progress.php:377
+msgid "Thank you for supporting the continuing development of this plug-in! I'll get back to you as soon as I can."
+msgstr "¡Gracias por apoyar el continuo desarrollo de este plug-in! Me pondré en contacto con usted tan pronto como pueda."
+
+#: content-progress.php:379
+msgid "I'll get back to you as soon as I can, after dealing with any support requests from plug-in supporters."
+msgstr ""
+"Me pondré en contacto con usted tan pronto como pueda, y después de tratar con las solicitudes de soporte de los que apoyan el plug-in.\n"
+"\n"
+
+#: content-progress.php:390
+msgid "Please note: I do keep records of those who have donated, but if your donation came from somebody other than your account at this web site, please note this in your message."
+msgstr "Por favor, tenga en cuenta: que yo llevo un registro de las personas que han donado, pero si su donación provino de alguien que no esta  en su cuenta de este sitio web, por favor informarlo en su mensaje."
+
+#: content-progress.php:392
+msgid "I have read <a href=\"http://www.joedolson.com/articles/content-progress/\">the FAQ for this plug-in</a>."
+msgstr "Yo he leido <a href=\"http://www.joedolson.com/articles/content-progress/\"> las Preguntas y Respuestas para este plug-in</a>."
+
+#: content-progress.php:395
+msgid "I have <a href=\"http://www.joedolson.com/donate.php\">made a donation to help support this plug-in</a>."
+msgstr "Yo he <a href=\"http://www.joedolson.com/donate.php\">hecho una donación para apoyar el avance de este plug-in</a>."
+
+#: content-progress.php:401
+msgid "Send Support Request"
+msgstr "Enviar Solicitud de Soporte"
+
+#: content-progress.php:404
+msgid "The following additional information will be sent with your support request:"
+msgstr "La siguiente información adicional será enviada junto con tu solicitud de soporte:"
+
+#: content-progress.php:562
+msgid "Get Plug-in Support"
+msgstr "Obtenga soporte para el plug-in"
+
+#: content-progress.php:600
+msgid "Check out my other plug-ins"
+msgstr "Echa un vistazo a mis otros plug-ins"
+
+#: content-progress.php:601
+msgid "Rate this plug-in"
+msgstr "Evalúa este plug-in"
+
+#: content-progress.php:627
+msgid "Get Support"
+msgstr "Obtenga Soporte"
+
+#: content-progress.php:628
+msgid "Donate"
+msgstr "Donar"
+
+#: content-progress.php:216 content-progress.php:522
+msgid "Content Progress"
+msgstr "Progreso del Contenido"
